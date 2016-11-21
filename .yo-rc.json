@@ -1,0 +1,11 @@
+{
+  "generator-reveal": {
+    "presentationTitle": "Developer Ecosystem",
+    "packageVersion": "0.0.0",
+    "revealTheme": "black",
+    "useSass": false,
+    "deployToGithubPages": true,
+    "githubUsername": "panpanli@ie.ibm.com",
+    "githubRepository": "developer-ecosystem"
+  }
+}
